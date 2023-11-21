@@ -12,8 +12,6 @@ body {
 
 .parent {
     width: 1440px;
-    /* height: 639px; */
-/*     height: 767px; */
     height: 650px;
     background-color: hsl(212, 45%, 89%);
 }
