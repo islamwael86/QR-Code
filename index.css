@@ -24,7 +24,7 @@ img {
 .child {
     background-color: hsl(0, 0%, 100%);
     width: 270px;
-    height: 500px;
+    height: 480px;
     padding: 15px;
     display: flex;
     flex-direction: column;
