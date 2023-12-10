@@ -37,13 +37,14 @@ img {
     height: 260px;
 }
 
-h3,
+h1,
 p {
     text-align: center;
 }
 
-h3 {
+h1 {
     width: 245px;
+    font-size: 19px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     margin-top: 20px;
