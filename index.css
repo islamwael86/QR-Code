@@ -12,7 +12,8 @@ body {
 
 .parent {
     width: 1440px;
-    height: 800px;
+    /* height: 639px; */
+    height: 767px;
     background-color: hsl(212, 45%, 89%);
 }
 
@@ -24,7 +25,7 @@ img {
 .child {
     background-color: hsl(0, 0%, 100%);
     width: 270px;
-    height: 470px;
+    height: 430px;
     padding: 15px;
     display: flex;
     flex-direction: column;
@@ -33,7 +34,7 @@ img {
 
 img {
     width: 265px;
-    height: 300px;
+    height: 260px;
 }
 
 h3,
