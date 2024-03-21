@@ -5,11 +5,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
@@ -18,37 +16,19 @@ A simple QR-Code project; a startup to develop my knowledge with HTML & CSS.
 
 ### Screenshot
 
-![Screenshot](./images/screenshot.jpg)
+[![Desktop.png](https://i.postimg.cc/wBmc849Z/Desktop.png)](https://postimg.cc/DW7b1gJP)
+[![Mobile.png](https://i.postimg.cc/HLX5PJ2C/Mobile.png)](https://postimg.cc/f3WJVRpH)
+
+### Links
+
+- Live Site URL: [Add live site URL here](https://islamwael86.github.io/QR-Code/)
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-
-### What I learned
-
-```html
-<img src="../qr-code-component-main/images/image-qr-code.png" alt="">
-```
-```css
-body,
-.parent {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-```
-
-### Continued development
-
-This is just the beginning of a long journey; the perfect work will come with alot of challenges; I am looking to develop my knowledge to a higher level.
-
-### Useful resources
-
-- [Example resource 1](https://elzero.org/tracks/front-end/)
+- HTML
+- CSS
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/islamwael86)
+- Frontend Mentor - [@islamwael86](https://www.frontendmentor.io/profile/islamwael86)
 - LinkedIn - [Islam Wael](https://www.linkedin.com/in/islam-wael-808b50252/)
