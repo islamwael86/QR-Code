@@ -21,7 +21,7 @@ A simple QR-Code project; a startup to develop my knowledge with HTML & CSS.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://islamwael86.github.io/QR-Code/)
+- Live Site URL: [QR-Code](https://islamwael86.github.io/QR-Code/)
 
 ### Built with
 
