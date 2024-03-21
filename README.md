@@ -27,6 +27,7 @@ A simple QR-Code project; a startup to develop my knowledge with HTML & CSS.
 
 - HTML
 - CSS
+- SCSS
 
 ## Author
 
